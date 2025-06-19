@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://postiz.com/" target="_blank">
+  <a href="https://gosocial.bizessence.com.au/" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/765e9d72-3ee7-4a56-9d59-a2c9befe2311">
     <img alt="GoSocial Logo" src="https://github.com/user-attachments/assets/f0d30d70-dddb-4142-8876-e9aa6ed1cb99" width="280"/>
@@ -17,7 +17,7 @@
 <div align="center">
   <strong>
   <h2>Your ultimate AI social media scheduling tool</h2><br />
-  <a href="https://postiz.com">GoSocial</a>: An alternative to: Buffer.com, Hypefury, Twitter Hunter, etc...<br /><br />
+  <a href="https://gosocial.bizessence.com.au">GoSocial</a>: An alternative to: Buffer.com, Hypefury, Twitter Hunter, etc...<br /><br />
   </strong>
   GoSocial offers everything you need to manage your social media posts,<br />build an audience, capture leads, and grow your business.
 </div>
