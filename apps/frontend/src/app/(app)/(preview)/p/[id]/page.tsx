@@ -48,13 +48,13 @@ export default async function Auth({
                 >
                   <div className="max-w-[55px]">
                     <Image
-                      src={'/postiz.svg'}
-                      width={55}
-                      height={55}
+                      src={'/gosocial.svg'}
+                      width={120}
+                      height={120}
                       alt="Logo"
                     />
                   </div>
-                  <div>
+                  {/* <div>
                     <svg
                       width="80"
                       height="75"
@@ -79,7 +79,7 @@ export default async function Auth({
                         fill="currentColor"
                       />
                     </svg>
-                  </div>
+                  </div> */}
                 </Link>
               </div>
             </div>

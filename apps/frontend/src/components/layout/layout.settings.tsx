@@ -94,13 +94,13 @@ export const LayoutSettings = ({ children }: { children: ReactNode }) => {
               >
                 <div className="min-w-[55px]">
                   <Image
-                    src={isGeneral ? '/postiz.svg' : '/logo.svg'}
-                    width={55}
-                    height={53}
+                    src={isGeneral ? '/gosocial.svg' : '/logo.svg'}
+                    width={120}
+                    height={120}
                     alt="Logo"
                   />
                 </div>
-                <div
+                {/* <div
                   className={clsx(!isGeneral ? 'mt-[12px]' : 'min-w-[80px]')}
                 >
                   {isGeneral ? (
@@ -131,7 +131,7 @@ export const LayoutSettings = ({ children }: { children: ReactNode }) => {
                   ) : (
                     'Gitroom'
                   )}
-                </div>
+                </div> */}
               </Link>
               {user?.orgId &&
               (user.tier !== 'FREE' || !isGeneral || !billingEnabled) ? (
