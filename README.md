@@ -1,14 +1,9 @@
-<p align="center">
-  <a href="https://affiliate.postiz.com">
-    <img src="https://github.com/user-attachments/assets/af9f47b3-e20c-402b-bd11-02f39248d738" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://postiz.com/" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/765e9d72-3ee7-4a56-9d59-a2c9befe2311">
-    <img alt="Postiz Logo" src="https://github.com/user-attachments/assets/f0d30d70-dddb-4142-8876-e9aa6ed1cb99" width="280"/>
+    <img alt="GoSocial Logo" src="https://github.com/user-attachments/assets/f0d30d70-dddb-4142-8876-e9aa6ed1cb99" width="280"/>
   </picture>
   </a>
 </p>
@@ -22,9 +17,9 @@
 <div align="center">
   <strong>
   <h2>Your ultimate AI social media scheduling tool</h2><br />
-  <a href="https://postiz.com">Postiz</a>: An alternative to: Buffer.com, Hypefury, Twitter Hunter, etc...<br /><br />
+  <a href="https://postiz.com">GoSocial</a>: An alternative to: Buffer.com, Hypefury, Twitter Hunter, etc...<br /><br />
   </strong>
-  Postiz offers everything you need to manage your social media posts,<br />build an audience, capture leads, and grow your business.
+  GoSocial offers everything you need to manage your social media posts,<br />build an audience, capture leads, and grow your business.
 </div>
 
 <div class="flex" align="center">
@@ -45,43 +40,6 @@
   <img alt="Bluesky" src="https://postiz.com/svgs/socials/Bluesky.svg" width="32">
 </div>
 
-<p align="center">
-  <br />
-  <a href="https://docs.postiz.com" rel="dofollow"><strong>Explore the docs »</strong></a>
-  <br />
-
-  <br />
-  <a href="https://youtube.com/@postizofficial" rel="dofollow"><strong>Watch the YouTube Tutorials»</strong></a>
-  <br />
-</p>
-
-<p align="center">
-  <a href="https://platform.postiz.com">Register</a>
-  ·
-  <a href="https://discord.postiz.com">Join Our Discord (devs only)</a>
-  ·
-  <a href="https://docs.postiz.com/public-api">Public API</a><br />
-</p>
-<p align="center">
-  <a href="https://www.npmjs.com/package/@postiz/node">NodeJS SDK</a>
-  ·
-  <a href="https://www.npmjs.com/package/n8n-nodes-postiz">N8N custom node</a>
-  ·
-  <a href="https://apps.make.com/postiz">Make.com integration</a>
-</p>
-
-
-<br />
-
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/05436a01-19c8-4827-b57f-05a5e7637a67" width="100%" />
-</p>
-
-## ✨ Features
-
-| ![Image 1](https://github.com/user-attachments/assets/a27ee220-beb7-4c7e-8c1b-2c44301f82ef) | ![Image 2](https://github.com/user-attachments/assets/eb5f5f15-ed90-47fc-811c-03ccba6fa8a2) |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| ![Image 3](https://github.com/user-attachments/assets/d51786ee-ddd8-4ef8-8138-5192e9cfe7c3) | ![Image 4](https://github.com/user-attachments/assets/91f83c89-22f6-43d6-b7aa-d2d3378289fb) |
 
 # Intro
 
@@ -100,38 +58,6 @@
 - Redis (BullMQ)
 - Resend (email notifications)
 
-## Quick Start
 
-To have the project up and running, please follow the [Quick Start Guide](https://docs.postiz.com/quickstart)
 
-## Sponsor Postiz
 
-We now give a few options to Sponsor Postiz:
-- Just a donation: You like what we are building, and want to buy us some coffees so we can build faster.
-- Main Repository: Get your logo with a backlink from the main Postiz repository. Postiz has almost 3m downloads and 20k views per month.
-- Main Repository + Website: Get your logo on the central repository and the main website. Here are some metrics: - Website has 20k hits per month + 65 DR (strong backlink) - Repository has 20k hits per month + Almost 3m docker downloads.
-
-Link: https://opencollective.com/postiz
-
-## Postiz Compliance
-
-- Postiz is an open-source, self-hosted social media scheduling tool that supports platforms like X (formerly Twitter), Bluesky, Mastodon, Discord, and others.
-- Postiz hosted service uses official, platform-approved OAuth flows.
-- Postiz does not automate or scrape content from social media platforms.
-- Postiz does not collect, store, or proxy API keys or access tokens from users.
-- Postiz never ask users to paste API keys into our hosted product.
-- Postiz Users always authenticate directly with the social platform (e.g., X, Discord, etc.), ensuring platform compliance and data privacy.
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=gitroomhq/postiz-app&type=Date)](https://www.star-history.com/#gitroomhq/postiz-app&Date)
-
-## License
-
-This repository's source code is available under the [AGPL-3.0 license](LICENSE).
-
-<br /><br /><br />
-
-<p align="center">
-  <a href="https://www.g2.com/products/postiz/take_survey" target="blank"><img alt="g2" src="https://github.com/user-attachments/assets/892cb74c-0b49-4589-b2f5-fbdbf7a98f66" /></a>
-</p>
