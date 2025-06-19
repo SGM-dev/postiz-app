@@ -72,7 +72,7 @@ export const useMenuItems = () => {
     {
       name: t('affiliate', 'Affiliate'),
       icon: 'affiliate',
-      path: 'https://affiliate.postiz.com',
+      path: 'https://affiliate.gosocial.bizessence.com.au',
       role: ['ADMIN', 'SUPERADMIN', 'USER'],
       requireBilling: true,
     },
