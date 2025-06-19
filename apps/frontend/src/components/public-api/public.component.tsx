@@ -33,7 +33,7 @@ export const PublicComponent = () => {
       <div className="text-customColor18 mt-[4px]">
         {t(
           'use_postiz_api_to_integrate_with_your_tools',
-          'Use Postiz API to integrate with your tools.'
+          'Use GoSocial API to integrate with your tools.'
         )}
         <br />
         <a
@@ -75,7 +75,7 @@ export const PublicComponent = () => {
       <div className="text-customColor18 mt-[4px]">
         {t(
           'connect_your_mcp_client_to_postiz_to_schedule_your_posts_faster',
-          'Connect your MCP client to Postiz to schedule your posts faster!'
+          'Connect your MCP client to GoSocial to schedule your posts faster!'
         )}
       </div>
       <div className="my-[16px] mt-[16px] bg-sixth border-fifth items-center border rounded-[4px] p-[24px] flex gap-[24px]">
