@@ -23,12 +23,12 @@ export default async function AuthLayout({
           <div className="w-full relative">
             <div className="custom:fixed custom:text-start custom:left-[20px] custom:justify-start custom:top-[20px] absolute -top-[100px] text-textColor justify-center items-center w-full flex gap-[10px]">
               <Image
-                src={isGeneralServerSide() ? '/postiz.svg' : '/logo.svg'}
-                width={55}
-                height={53}
+                src={isGeneralServerSide() ? '/gosocial.svg' : '/logo.svg'}
+                width={120}
+                height={120}
                 alt="Logo"
               />
-              <div
+              {/* <div
                 className={clsx(
                   !isGeneralServerSide() ? 'mt-[12px]' : 'min-w-[80px]'
                 )}
@@ -61,7 +61,7 @@ export default async function AuthLayout({
                 ) : (
                   <div className="text-[40px]">{t('gitroom', 'Gitroom')}</div>
                 )}
-              </div>
+              </div> */}
             </div>
           </div>
           <div className="p-[32px] w-full h-[660px] text-textColor rbox">
