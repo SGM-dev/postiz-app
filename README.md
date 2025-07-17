@@ -34,10 +34,10 @@
   <img alt="Pinterest" src="https://postiz.com/svgs/socials/Pinterest.svg" width="32">
   <img alt="Threads" src="https://postiz.com/svgs/socials/Threads.svg" width="32">
   <img alt="X" src="https://postiz.com/svgs/socials/X.svg" width="32">
-  <img alt="X" src="https://postiz.com/svgs/socials/Slack.svg" width="32">
-  <img alt="X" src="https://postiz.com/svgs/socials/Discord.svg" width="32">
-  <img alt="X" src="https://postiz.com/svgs/socials/Mastodon.svg" width="32">
-  <img alt="X" src="https://postiz.com/svgs/socials/Bluesky.svg" width="32">
+  <img alt="Slack" src="https://postiz.com/svgs/socials/Slack.svg" width="32">
+  <img alt="Discord" src="https://postiz.com/svgs/socials/Discord.svg" width="32">
+  <img alt="Mastodon" src="https://postiz.com/svgs/socials/Mastodon.svg" width="32">
+  <img alt="Bluesky" src="https://postiz.com/svgs/socials/Bluesky.svg" width="32">
 </div>
 
 

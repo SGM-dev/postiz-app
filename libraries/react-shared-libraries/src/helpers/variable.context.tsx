@@ -18,8 +18,10 @@ interface VariableContextInterface {
   neynarClientId: string;
   isSecured: boolean;
   disableImageCompression: boolean;
+  disableXAnalytics: boolean;
   language: string;
   tolt: string;
+  transloadit: string[];
 }
 const VariableContext = createContext({
   billingEnabled: false,
@@ -38,8 +40,10 @@ const VariableContext = createContext({
   facebookPixel: '',
   neynarClientId: '',
   disableImageCompression: false,
+  disableXAnalytics: false,
   language: '',
   tolt: '',
+  transloadit: [],
 } as VariableContextInterface);
 export const VariableContextComponent: FC<
   VariableContextInterface & {
