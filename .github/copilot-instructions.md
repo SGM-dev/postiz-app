@@ -1,4 +1,4 @@
-Postiz is an all-in-one Social Media Scheduler.
+GoSocial is an all-in-one Social Media Scheduler.
 
 # Instructions
 
@@ -6,7 +6,7 @@ Postiz is an all-in-one Social Media Scheduler.
 Write meaningful comments where necessary, especially for complex logic.
 
 ## Testing
-If you try to code something for "Postiz", make sure to check your code with these instructions:
+If you try to code something for "GoSocial", make sure to check your code with these instructions:
 1. Install NodeJS 20.17.0
 2. Install pNPM 8
 3. Install Dependencies: "pnpm install"
@@ -31,9 +31,6 @@ Developer Documentation is available under https://docs.postiz.com/developer-gui
 - Prisma (Default to PostgreSQL)
 - Redis (BullMQ)
 - Resend (email notifications)
-
-## License
-This repository's source code is available under the [AGPL-3.0 license](LICENSE).
 
 ## Features
 - Schedule all your social media posts (many AI features)
